@@ -3,4 +3,4 @@ Shows minimal distance between portals for submission
 
 Download: https://raw.githubusercontent.com/piczkaczu/iitc-min-portal-distance/master/iitc-min-portal-distance.user.js
 
-https://raw.githubusercontent.com/piczkaczu/iitc-min-portal-distance/master/iitc-min-portal-distance.png
+[https://raw.githubusercontent.com/piczkaczu/iitc-min-portal-distance/master/iitc-min-portal-distance.png]
