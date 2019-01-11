@@ -1,4 +1,4 @@
-# iitc-min-portal-distance
+# IITC Min Portal Distance
 Show minimal distance between portals for submission
 
 Download: https://raw.githubusercontent.com/piczkaczu/iitc-min-portal-distance/master/iitc-min-portal-distance.user.js
