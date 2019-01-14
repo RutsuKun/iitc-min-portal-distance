@@ -4,8 +4,8 @@
 // @category       Layer
 // @version        0.1.0.20190111.21337
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://static.iitc.me/build/release/plugins/zaprange.meta.js
-// @downloadURL    https://static.iitc.me/build/release/plugins/zaprange.user.js
+// @updateURL      https://github.com/piczkaczu/iitc-min-portal-distance/blob/master/iitc-min-portal-distance.meta.js
+// @downloadURL    https://github.com/piczkaczu/iitc-min-portal-distance/blob/master/iitc-min-portal-distance.user.js
 // @description    [iitc-2019-01-11-021337] Shows the minimal distance between portals for submission.
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
