@@ -7,6 +7,8 @@
 // @updateURL      https://github.com/piczkaczu/iitc-min-portal-distance/blob/master/iitc-min-portal-distance.meta.js
 // @downloadURL    https://github.com/piczkaczu/iitc-min-portal-distance/blob/master/iitc-min-portal-distance.user.js
 // @description    [iitc-2019-01-11-021337] Shows the minimal distance between portals for submission.
+// @include        https://intel.ingress.com*
+// @include        http://intel.ingress.com*
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
